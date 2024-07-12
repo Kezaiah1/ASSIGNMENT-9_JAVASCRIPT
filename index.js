@@ -49,3 +49,4 @@ console.log(interestRate);//This will result in an error.
    let isApproved = true;//Boolean literal. Eg: If the order is approved, then it needs to be shipped.
    let selectedColor = null;/*Eg: If we want to present the user with a list of colors and the user has no selection,you want to set the selected
     color variable to *null*)*/
+    
